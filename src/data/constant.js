@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Ajay Vishnu E",
+  name: "Febin Jacob",
   roles: [
     "Full Stack Developer",
     "App Developer",
@@ -8,13 +8,8 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/AjayVishnuE",
-  resume:
-    "https://drive.google.com/file/d/1nJLSRQVNnUnFFfshe8nEaPiVdV2OlwJo/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/ajayvishnue/",
-  twitter: "https://twitter.com/AjayVis65817041",
-  insta: "https://www.instagram.com/ajay_vishnu_/",
-  facebook: "https://www.facebook.com/ajay.vishnu.52090/",
+  github: "https://github.com/Febinfj",
+  
 };
 
 export const skills = [
@@ -155,29 +150,29 @@ export const education = [
   {
     id: 0,
     img: "https://scontent.fcok4-1.fna.fbcdn.net/v/t39.30808-6/292835859_444450774362640_3087589623082813252_n.png?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=IoFY0VsgDEsAX8VNz0y&_nc_ht=scontent.fcok4-1.fna&oh=00_AfAzQ0cccG0oxMfZVK1sNAv2EYJxzmopGh8TvzNaEKL0CQ&oe=651ACCF2",
-    school: "Christ College of Engineering, Irinjalakuda",
-    date: "Aug 2020 - Aug 2024",
+    school: "College of Engineering Pathanapuram",
+    date: "Sep 2023-May2027",
     grade: "8.42 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Christ College of Engineering, Irinjalakuda. I have completed 5 semesters and have a CGPA of 8.42. ",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at College of Engineering Pathanpuram. I have completed 4 semesters and have a CGPA of 8.42. ",
     degree: "Bachelor of Technology - B.Tech, Computer Science and Engineering",
   },
   {
     id: 1,
     img: "https://static.educativ.net/monthly_2020_08/1985305171_logo(1).jpg.4df850e7ae32c84b45cbc8df87e22f9b.jpg",
-    school: "Airport Senior Secondary School, Calicut Airport",
+    school: "GHSS Kulakkada",
     date: "Apr 2018 - Apr 2019",
     grade: "84.8%",
-    desc: "I completed my class 12 high school education at Airport Senior Secondary School, Calicut Airport, where I studied Science with Computer Science.",
-    degree: "CBSE(XII), Science with Computer",
+    desc: "I completed my class 12 high school education at GHSS Kulakkada where I studied Science with Computer Science.",
+    degree: "HSE(XII), Science with Computer",
   },
   {
     id: 2,
     img: "https://static.educativ.net/monthly_2020_08/1985305171_logo(1).jpg.4df850e7ae32c84b45cbc8df87e22f9b.jpg",
-    school: "Airport Senior Secondary School, Calicut Airport",
+    school: "ST.Marys Higher Secondary school",
     date: "Apr 2016 - Apr 2017",
     grade: "10.0 (CGPA)",
-    desc: "I completed my class 10 education at Airport Senior Secondary School, Calicut Airport.",
-    degree: "CBSE(X)",
+    desc: "I completed my class 10 education at ST.Marys Higher Secondary school",
+    degree: "HSE(X)",
   },
 ];
 
@@ -194,59 +189,20 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Amal070146/WRAP-Waste-Management-App",
     webapp: "https://wrap-showcase.netlify.app/",
-    member: [
-      {
-        name: "Ajay Vishnu E",
-        img: "https://avatars.githubusercontent.com/u/86393036?v=4",    
-        linkedin: "https://www.linkedin.com/in/ajayvishnue/",
-        github: "https://github.com/AjayVishnuE/",
-      },
-      {
-        name: "Enric S Neelamkavil",
-        img: "https://avatars.githubusercontent.com/u/83575757?v=4",
-        linkedin: "https://www.linkedin.com/in/enricsneelamkavil/",
-        github: "https://github.com/enricsneelamkavil",
-      },
-      {
-        name: "Amal C P",
-        img: "https://avatars.githubusercontent.com/u/83328946?v=4",
-        linkedin: "https://www.linkedin.com/in//",
-        github: "https://github.com/Amal070146/",
-      },
-      {
-        name: "Vaishnav M J",
-        img: "https://avatars.githubusercontent.com/u/116723206?v=4",
-        linkedin: "https://www.linkedin.com/in//",
-        github: "https://github.com/Vaishnavmj",
-      }
-    ]
   },
   {
     id: 1,
     title: "CSI SB CCE Website",
     date: "Apr 2023 - May 2023",
-    description:
-      "Developed the official Website of Computer Society of India, Student Branch of Christ College of Engineering, irinjalakuda",
+   
     image:
       "https://i.ibb.co/N92fm9F/CSI-SB-CCE.png",
     tags: ["React Js", "HTML", "CSS"],
     category: "web app",
     github: "https://github.com/AjayVishnuE/CSI-SB-CCE",
     webapp: "https://csicce.netlify.app/",
-    member: [
-      {
-        name: "Ajay Vishnu E",
-        img: "https://avatars.githubusercontent.com/u/86393036?v=4",    
-        linkedin: "https://www.linkedin.com/in/ajayvishnue/",
-        github: "https://github.com/AjayVishnuE/",
-      },
-      {
-        name: "Enric S Neelamkavil",
-        img: "https://avatars.githubusercontent.com/u/83575757?v=4",
-        linkedin: "https://www.linkedin.com/in/enricsneelamkavil/",
-        github: "https://github.com/enricsneelamkavil",
-      }
-    ]
+  
+  
   },
   // {
   //   id: 2,
